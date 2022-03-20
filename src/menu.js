@@ -6,6 +6,7 @@ const Menu=()=>
         <>
         <Link activeClassName="active_class" to="/">Home</Link>
         <Link activeClassName="active_class" to="/about">About</Link>
+        <Link to="/contact/aakriti">contact us</Link>
         </>
 
     )
